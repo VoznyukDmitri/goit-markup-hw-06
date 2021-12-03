@@ -861,7 +861,6 @@ textarea {
 .form-field input,
 textarea {
   border: 1px solid rgba(33, 33, 33, 0.2);
-  /* box-sizing: border-box; */
   border-radius: 4px;
   outline: none;
 
@@ -953,7 +952,6 @@ textarea {
 }
 
 .checkbox-input {
-  /* display: none; */
   position: absolute;
   width: 1px;
   height: 1px;
